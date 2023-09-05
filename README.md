@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ahan529
-- 👀 I’m interested in Android
-- 🌱 I’m currently learning Kotlin
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
